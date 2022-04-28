@@ -16,3 +16,16 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 https://github.com/preneure/the_complete_flutter_development_course
+
+
+### STRUCTURE ###
+```bash
+lib
+|__main
+|__page
+   |__home_page.dart
+|__widgets
+   |__custom_dropdown_button.dart
+```
+### DOCUMENT ###
+https://www.notion.so/Flutter-350f518d5469403a860f307d5e848cde?p=7ff6b16178284050b095737454cc5a15
